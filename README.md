@@ -23,3 +23,5 @@ EJ16   | [Tema 2/Ejercicio 16](https://github.com/Cristian1112/Ejercicios-LLMM/b
 EJ17   | [Tema 2/Ejercicio 17](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%202/Ejercicios%2016%2C%2017%2C%2018/Ejercicio%2017.html)
 EJ18   | [Tema 2/Ejercicio 18](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%202/Ejercicios%2016%2C%2017%2C%2018/Ejercicio%2018.html)
 EJ19   | [Tema 2/Ejercicio 19](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%2019.html)
+EJ20   | [Tema 2/Ejercicio 20](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%2020.html)
+EJ21   | [Tema 2/Ejercicio 21](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%2021.html)
