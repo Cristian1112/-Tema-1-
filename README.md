@@ -25,3 +25,8 @@ EJ18   | [Tema 2/Ejercicio 18](https://github.com/Cristian1112/Ejercicios-LLMM/b
 EJ19   | [Tema 2/Ejercicio 19](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%2019.html)
 EJ20   | [Tema 2/Ejercicio 20](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%2020.html)
 EJ21   | [Tema 2/Ejercicio 21](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%2021.html)
+EJ22   | [Tema 2/Ejercicio 22](https://zozor-cristian.000webhostapp.com/zozor.html)
+EJ23   | [Tema 2/Ejercicio 23](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%2023.html)
+EJ24   | [Tema 2/Ejercicio 24](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%2024.html)
+EJ25   | [Tema 2/Ejercicio 25](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%2025.html)
+EJ26   | [Tema 2/Ejercicio 26](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%2026.html)
