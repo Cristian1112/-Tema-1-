@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE person [
+<!ELEMENT person (name, Home_adress,Email, Telephone_number, age, Marital_Status)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT Home_adress (#PCDATA)>
+<!ELEMENT Email (#PCDATA)>
+<!ELEMENT Telephone_number (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT Marital_Status (#PCDATA)>
+]>
+<person>
+<name>Carlos</name>
+<Home_adress>Plaza mayor</Home_adress>
+<Email>carlitos@gmail.com</Email>
+<Telephone_number>123456789</Telephone_number>
+<age>35</age>
+<Marital_Status>Soltero</Marital_Status>
+</person>

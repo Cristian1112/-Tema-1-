@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE person [
+<!ELEMENT person (name, Home_adress, Email, Telephone_number, Company)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT Home_adress (#PCDATA)>
+<!ELEMENT Email (#PCDATA)>
+<!ELEMENT Telephone_number (#PCDATA)>
+<!ELEMENT Company (name_company, list_site_web)>
+<!ELEMENT name_company (#PCDATA)>
+<!ELEMENT list_site_web (name_site, url)>
+<!ELEMENT name_site (#PCDATA)>
+<!ELEMENT url (#PCDATA)>
+]>
+<person>
+<name>Carlos</name>
+<Home_adress>Plaza mayor</Home_adress>
+<Email>carlitos@gmail.com</Email>
+<Telephone_number>123456789</Telephone_number>
+<Company>
+<name_company>endesa</name_company>
+<list_site_web>
+<name_site>endesa.com</name_site>
+<url>https://endesa.com</url>
+</list_site_web>
+</Company>
+</person>
