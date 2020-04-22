@@ -30,7 +30,7 @@ EJ23   | [Tema 2/Ejercicio 23](https://github.com/Cristian1112/Ejercicios-LLMM/b
 EJ24   | [Tema 2/Ejercicio 24](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%2024.html)
 EJ25   | [Tema 2/Ejercicio 25](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%2025.html)
 EJ26   | [Tema 2/Ejercicio 26](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%2026.html)
--------|---------
+       |
 DTD    | [Tema 3/Ejercicio 1](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%203/ex1.xml)
 DTD    | [Tema 3/Ejercicio 2](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%203/ex2.xml)
 DTD    | [Tema 3/Ejercicio 3](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%203/ex3.xml)
