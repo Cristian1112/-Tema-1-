@@ -36,3 +36,6 @@ DTD    | [Tema 3/Ejercicio 2](https://github.com/Cristian1112/Ejercicios-LLMM/bl
 DTD    | [Tema 3/Ejercicio 3](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%203/ex3.xml)
 DTD    | [Tema 3/Ejercicio 4](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%203/ex4.xml)
 DTD    | [Tema 3/Ejercicio 5](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%203/ex5.xml)
+------ | ----------
+JVS    | [Tema 3/Ejercicio 1](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%203/MyJS.js.html)
+JVS    | [Tema 3/Ejercicio 2](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%203/My2JS.js.html)
