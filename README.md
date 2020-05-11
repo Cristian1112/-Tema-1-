@@ -40,7 +40,7 @@ DTD    | [Tema 3/Ejercicio 5](https://github.com/Cristian1112/Ejercicios-LLMM/bl
 JVS    | [Tema 3/Ejercicio 1](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%203/MyJS.js.html)
 JVS    | [Tema 3/Ejercicio 2](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%203/My2JS.js.html)
 ------ | ----------
-XMLDOM | [Tema 3/Ejercicio 1]()
+XMLDOM | [Tema 3/Ejercicio 1](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%203/XML%20DOM1.odt)
 XMLDOM | [Tema 3/Ejercicio 2]()
 ------ | ----------
 AJAX   | [Tema 3/Ejercicio 1]()
