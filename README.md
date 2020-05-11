@@ -39,3 +39,20 @@ DTD    | [Tema 3/Ejercicio 5](https://github.com/Cristian1112/Ejercicios-LLMM/bl
 ------ | ----------
 JVS    | [Tema 3/Ejercicio 1](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%203/MyJS.js.html)
 JVS    | [Tema 3/Ejercicio 2](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%203/My2JS.js.html)
+------ | ----------
+XMLDOM | [Tema 3/Ejercicio 1]()
+XMLDOM | [Tema 3/Ejercicio 2]()
+------ | ----------
+AJAX   | [Tema 3/Ejercicio 1]()
+AJAX   | [Tema 3/Ejercicio 2]()
+------ | ----------
+JSON   | [Tema 3/Ejercicio 3]()
+JSON   | [Tema 3/Ejercicio 4]()
+JSON   | [Tema 3/Ejercicio 5]()
+------ | ----------
+RSS    | [Tema 4/Ejercicio 1]()
+------ | ----------
+XPATH  | [Tema 5/Ejercicio 3]()
+XPATH  | [Tema 5/Ejercicio 4]()
+------ | ----------
+XSLT   | [Tema 5/Ejercicio 1]()
