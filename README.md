@@ -43,12 +43,12 @@ JVS    | [Tema 3/Ejercicio 2](https://github.com/Cristian1112/Ejercicios-LLMM/bl
 XMLDOM | [Tema 3/Ejercicio 1](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%203/XML%20DOM1.odt)
 XMLDOM | [Tema 3/Ejercicio 2]()
 ------ | ----------
-AJAX   | [Tema 3/Ejercicio 1]()
+AJAX   | [Tema 3/Ejercicio 1](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%203/AJAX1.odt)
 AJAX   | [Tema 3/Ejercicio 2]()
 ------ | ----------
-JSON   | [Tema 3/Ejercicio 3]()
-JSON   | [Tema 3/Ejercicio 4]()
-JSON   | [Tema 3/Ejercicio 5]()
+JSON   | [Tema 3/Ejercicio 3](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%203/JSON3.odt)
+JSON   | [Tema 3/Ejercicio 4](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%203/JSON4.odt)
+JSON   | [Tema 3/Ejercicio 5](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%203/JSON5.odt)
 ------ | ----------
 RSS    | [Tema 4/Ejercicio 1]()
 ------ | ----------
