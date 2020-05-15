@@ -50,7 +50,7 @@ JSON   | [Tema 3/Ejercicio 3](https://github.com/Cristian1112/Ejercicios-LLMM/bl
 JSON   | [Tema 3/Ejercicio 4](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%203/JSON4.odt)
 JSON   | [Tema 3/Ejercicio 5](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%203/JSON5.odt)
 ------ | ----------
-RSS    | [Tema 4/Ejercicio 1]()
+RSS    | [Tema 4/Ejercicio 1](https://github.com/Cristian1112/Ejercicios-LLMM/tree/master/Tema%204)
 ------ | ----------
 XPATH  | [Tema 5/Ejercicio 3]()
 XPATH  | [Tema 5/Ejercicio 4]()
