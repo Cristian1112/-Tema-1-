@@ -44,7 +44,7 @@ XMLDOM | [Tema 3/Ejercicio 1](https://github.com/Cristian1112/Ejercicios-LLMM/bl
 XMLDOM | [Tema 3/Ejercicio 2]()
 ------ | ----------
 AJAX   | [Tema 3/Ejercicio 1](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%203/AJAX1.odt)
-AJAX   | [Tema 3/Ejercicio 2]()
+AJAX   | [Tema 3/Ejercicio 2](https://github.com/Cristian1112/Ejercicios-LLMM/tree/master/Tema%203/AJAX%202)
 ------ | ----------
 JSON   | [Tema 3/Ejercicio 3](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%203/JSON3.odt)
 JSON   | [Tema 3/Ejercicio 4](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%203/JSON4.odt)
@@ -52,7 +52,7 @@ JSON   | [Tema 3/Ejercicio 5](https://github.com/Cristian1112/Ejercicios-LLMM/bl
 ------ | ----------
 RSS    | [Tema 4/Ejercicio 1](https://github.com/Cristian1112/Ejercicios-LLMM/tree/master/Tema%204)
 ------ | ----------
-XPATH  | [Tema 5/Ejercicio 3]()
-XPATH  | [Tema 5/Ejercicio 4]()
+XPATH  | [Tema 5/Ejercicio 3](https://github.com/Cristian1112/Ejercicios-LLMM/blob/master/Tema%205/xpath%201.odt)
+XPATH  | [Tema 5/Ejercicio 4](https://github.com/Cristian1112/Ejercicios-LLMM/tree/master/Tema%205/Xpath%202)
 ------ | ----------
 XSLT   | [Tema 5/Ejercicio 1]()
