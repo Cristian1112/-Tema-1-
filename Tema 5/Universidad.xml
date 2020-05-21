@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="universidad.xsl"?>
 <!--
 ==========================================================================
 | File..........: xpath.xml
@@ -11,17 +12,17 @@
 <universidad>
 
     <nombre>Universidad de Huelva</nombre>
-    <pais>España</pais>
+    <pais>EspaÃ±a</pais>
 
 <!-- CARRERAS -->
 
     <carreras>
 
         <carrera id="c01">
-            <nombre>I.T. Informática</nombre>
+            <nombre>I.T. InformÃ¡tica</nombre>
             <plan>2003</plan>
             <creditos>250</creditos>
-            <centro>Escuela de Informática</centro>
+            <centro>Escuela de InformÃ¡tica</centro>
         </carrera>
 
         <carrera id="c02">
@@ -36,7 +37,7 @@
             <plan>2001</plan>
             <creditos>280</creditos>
             <centro>Facultad de Ciencias Sociales</centro>
-            <subdirector>Alfonso Martín  Luque</subdirector>
+            <subdirector>Alfonso MartÃ­n  Luque</subdirector>
         </carrera>
 
         <carrera id="c04">
@@ -47,7 +48,7 @@
         </carrera>
 
         <carrera id="c05">
-            <nombre>Lic. Biología</nombre>
+            <nombre>Lic. BiologÃ­a</nombre>
             <plan>2001</plan>
             <creditos>175</creditos>
             <centro>Facultad de Ciencias Experimentales</centro>
@@ -67,21 +68,21 @@
     <asignaturas>
 
         <asignatura id="a01" titulacion="c01">
-            <nombre>Ofimática</nombre>
+            <nombre>OfimÃ¡tica</nombre>
             <creditos_teoricos>3</creditos_teoricos>
             <creditos_practicos>1.5</creditos_practicos>
             <trimestre>1</trimestre>
         </asignatura>
 
         <asignatura id="a02" titulacion="c01">
-            <nombre>Ingeniería del Software</nombre>
+            <nombre>IngenierÃ­a del Software</nombre>
             <creditos_teoricos>6</creditos_teoricos>
             <creditos_practicos>1.5</creditos_practicos>
             <trimestre>2</trimestre>
         </asignatura>
 
         <asignatura id="a03" titulacion="c02">
-            <nombre>Administración de Empresas</nombre>
+            <nombre>AdministraciÃ³n de Empresas</nombre>
             <creditos_teoricos>4</creditos_teoricos>
             <creditos_practicos>1.5</creditos_practicos>
             <trimestre>1</trimestre>
@@ -95,21 +96,21 @@
         </asignatura>
 
         <asignatura id="a05" titulacion="c04">
-            <nombre>Pedagogía</nombre>
+            <nombre>PedagogÃ­a</nombre>
             <creditos_teoricos>4</creditos_teoricos>
             <creditos_practicos>1.5</creditos_practicos>
             <trimestre>2</trimestre>
         </asignatura>
 
         <asignatura id="a06" titulacion="c03">
-            <nombre>Didáctica</nombre>
+            <nombre>DidÃ¡ctica</nombre>
             <creditos_teoricos>4</creditos_teoricos>
             <creditos_practicos>3</creditos_practicos>
             <trimestre>2</trimestre>
         </asignatura>
 
         <asignatura id="a07" titulacion="c04">
-            <nombre>Tecnología de los Alimentos</nombre>
+            <nombre>TecnologÃ­a de los Alimentos</nombre>
             <creditos_teoricos>1.5</creditos_teoricos>
             <creditos_practicos>7.5</creditos_practicos>
             <trimestre>2</trimestre>
@@ -138,7 +139,7 @@
         <alumno id="e01">
             <apellido1>Rivas</apellido1>
             <apellido2>Santos</apellido2>
-            <nombre>Víctor Manuel</nombre>
+            <nombre>VÃ­ctor Manuel</nombre>
             <sexo>Hombre</sexo>
             <estudios>
                 <carrera codigo="c01"/>
@@ -152,8 +153,8 @@
         </alumno>
 
         <alumno id="e02">
-            <apellido1>Pérez</apellido1>
-            <apellido2>García</apellido2>
+            <apellido1>PÃ©rez</apellido1>
+            <apellido2>GarcÃ­a</apellido2>
             <nombre>Luisa</nombre>
             <sexo>Mujer</sexo>
             <estudios>
@@ -168,7 +169,7 @@
         </alumno>
 
         <alumno id="e03" beca="si">
-            <apellido1>Pérez</apellido1>
+            <apellido1>PÃ©rez</apellido1>
             <apellido2>Romero</apellido2>
             <nombre>Fernando</nombre>
             <sexo>Hombre</sexo>
@@ -184,9 +185,9 @@
         </alumno>
 
         <alumno id="e04">
-            <apellido1>Avalón</apellido1>
-            <apellido2>Jiménez</apellido2>
-            <nombre>María</nombre>
+            <apellido1>AvalÃ³n</apellido1>
+            <apellido2>JimÃ©nez</apellido2>
+            <nombre>MarÃ­a</nombre>
             <sexo>Mujer</sexo>
             <estudios>
                 <carrera codigo="c01"/>
